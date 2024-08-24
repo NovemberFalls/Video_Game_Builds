@@ -149,6 +149,16 @@ body {
     white-space: pre-line;
 }
 
+.card-description ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.card-description ul li {
+    padding: 5px 0;
+    font-size: 0.25em;
+}
+
 .box {
     background-color: #1e1e1e;
     padding: 20px;
